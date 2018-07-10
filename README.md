@@ -1,0 +1,1 @@
+# BULK_QR_CODE

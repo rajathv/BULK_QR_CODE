@@ -2,7 +2,7 @@
 import qrcode
 import csv
 
-with open('gdg.csv', 'r') as f:
+with open('data.csv', 'r') as f:
   reader = csv.reader(f)
   your_list = list(reader)
 print(your_list)
